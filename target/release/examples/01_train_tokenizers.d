@@ -1,0 +1,1 @@
+/Users/monu/Desktop/github.com/openmod/feste/target/release/examples/01_train_tokenizers: /Users/monu/Desktop/github.com/openmod/feste/examples/01_train_tokenizers.rs /Users/monu/Desktop/github.com/openmod/feste/src/lib.rs /Users/monu/Desktop/github.com/openmod/feste/src/tensor.rs /Users/monu/Desktop/github.com/openmod/feste/src/tokenizer.rs
